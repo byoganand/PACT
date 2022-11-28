@@ -14,7 +14,7 @@ In our implementation, we have use CC1125 development kit as Source. Tag is a cu
 * Sotware codes for Source can be found in [Source](Source) folder.
 * The PCB design of PACT Tag can be found in [Tag Harware](Tag/Hardware) folder.
 * Software codes for Tag can be found in [Tag Software](Tag/Software) folder.
-* Software files for Reader implementation can be [Reader Software](Reader/Software) folder.
+* Software files for Reader implementation can be [Reader](Reader) folder.
 
 ## Contact
 * Yaman Sangar : [sangar@wisc.edu](mailto:sangar.wisc.edu)
