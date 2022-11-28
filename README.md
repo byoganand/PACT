@@ -11,7 +11,7 @@ PACT system design consists of a Source, Tag and Reader. (1) Source uses (b) Act
 In our implementation, we have use CC1125 development kit as Source. Tag is a custom built PCB with 12 stage energy harvesting circuit, Lattice Semiconductor's iCE40LX FPGA and AX5043 as active radio. USRPB200 is used as the Reader to receive Tag response.
 
 ## Hardware and Software
-* Sotware codes for Source can be found in [Source Sotware](Source) folder.
+* Sotware codes for Source can be found in [Source](Source) folder.
 * The PCB design of PACT Tag can be found in [Tag Harware](Tag/Hardware) folder.
 * Software codes for Tag can be found in [Tag Software](Tag/Software) folder.
 * Software files for Reader implementation can be [Reader Software](Reader/Software) folder.
